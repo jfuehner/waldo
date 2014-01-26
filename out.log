@@ -1,0 +1,41 @@
+suicide - NN
+--> suicide car bomb explosion - 9
+--> suicide car bomb - 8
+--> weight= 6, occ= 2, conf= 23.014388489208635
+Muna - NN
+--> Muna hotel - 11
+--> Hotel Muna - 18
+--> weight= 10, occ= 2, conf= 39.014388489208635
+Mogadishu - NNP
+--> weight= 8, occ= 2, conf= 8.014388489208633
+Hamar-weyne - NN
+--> Hamar-weyne district - 7
+--> weight= 6, occ= 1, conf= 13.007194244604317
+district - NN
+--> Hamar-weyne district - 6
+--> weight= 2, occ= 1, conf= 8.007194244604317
+Parliamentarians - NNP
+--> weight= 8, occ= 1, conf= 8.007194244604317
+Al - NNP
+--> Al Shabaab - 16
+--> weight= 12, occ= 1, conf= 28.007194244604317
+Shabaab - NN
+--> Al Shabaab - 16
+--> weight= 8, occ= 1, conf= 24.007194244604317
+suicide - NN
+--> suicide car bomb - 5
+--> weight= 3, occ= 1, conf= 8.09090909090909
+car - NN
+--> suicide car bomb - 5
+--> weight= 3, occ= 1, conf= 8.09090909090909
+bomb - NN
+--> suicide car bomb - 5
+--> weight= 3, occ= 1, conf= 8.09090909090909
+Hotel - NNP
+--> Hotel Muna - 16
+--> weight= 12, occ= 1, conf= 28.090909090909093
+Muna - NN
+--> Hotel Muna - 16
+--> weight= 8, occ= 1, conf= 24.090909090909093
+Mogadishu - NNP
+--> weight= 8, occ= 1, conf= 8.090909090909092
