@@ -1,11 +1,11 @@
 {
-  "name": "natural-geo",
+  "name": "waldo",
   "version": "0.0.1",
-  "description": "A geographic entity nlp entity extraction plugin using natural and geode...",
-  "main": "server.js",
+  "description": "A nlp geographic entity extraction plugin...",
+  "main": "waldo.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/jfuehner/natural-geo.git"
+    "url": "http://github.com/jfuehner/waldo.git"
   },
   "author": "Jason Fuehner <jason@fuehner.com>",
   "dependencies": {
